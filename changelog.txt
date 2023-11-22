@@ -1,0 +1,12 @@
+V0.1 : Version originale
+
+---
+
+V0.2 :
+- Ajout de vias pour connecter les condensateurs du matching network de l'antenne à GND. Précédemment déconnectés en V0.1 donc utilisation impossible des condensateurs.
+- Les petits composants de surface sont moins proches et plus faciles à placer
+- La zone +BATT est plus petite
+- Capteur centré et changement de la position des passifs
+- La LED de statut est retirée
+- Passage à 0805 pour la plupart des composants
+- Plus de points d'ancrage au plan de masse pour l'antenne
