@@ -10,3 +10,4 @@ V0.2 :
 - La LED de statut est retirée
 - Passage à 0805 pour la plupart des composants
 - Plus de points d'ancrage au plan de masse pour l'antenne
+- Ajout de cases à cocher pour indiquer la fréquence utilisée par le circuit

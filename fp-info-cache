@@ -1,4 +1,4 @@
-22012850121586760
+22019647082118420
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83615,6 +83615,13 @@ Connector
 24
 24
 SamacSys_Parts
+ANT868uSP410
+ANT-868-uSP410-2
+Antenna
+0
+2
+2
+SamacSys_Parts
 ARDUINO_A000053
 
 
@@ -83642,6 +83649,20 @@ Battery
 0
 3
 3
+SamacSys_Parts
+BME688
+BME688-8
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+BOSCH_LGA-12
+Bosch_LGA-12
+Accelerometer
+0
+12
+12
 SamacSys_Parts
 BPW21
 BPW 21-2
@@ -83810,6 +83831,13 @@ LattePandaHat
 0
 100
 100
+SamacSys_Parts
+M208890245
+M20-8890245-3
+Connector
+0
+2
+2
 SamacSys_Parts
 MJ-2523-SMT-TR
 
